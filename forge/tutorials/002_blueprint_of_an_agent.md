@@ -7,7 +7,7 @@
 
 ---
 
-![Header](../../../docs/content/imgs/quickstart/t2_01.png)
+![Header](../../docs/content/imgs/quickstart/t2_01.png)
 
 
 
